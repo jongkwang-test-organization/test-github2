@@ -10,6 +10,7 @@ public class Calculator {
         Calculator c = new Calculator();
         c.sum(1,2);
         c.sum(2,3);
+        c.sum(3,4);
     }
 
     public int sum(int a, int b) {
